@@ -1,0 +1,12 @@
+.left{
+    float: left;
+    margin-right: 10px;
+}
+
+.input{
+    margin-top: 15px
+}
+
+button{
+    margin-top: 20px;
+}
